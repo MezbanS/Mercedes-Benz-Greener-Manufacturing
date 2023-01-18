@@ -8,7 +8,7 @@ To ensure the safety and reliability of every unique car configuration before th
 
 You are required to reduce the time that cars spend on the test bench. Others will work with a dataset representing different permutations of features in a Mercedes-Benz car to predict the time it takes to pass testing. Optimal algorithms will contribute to faster testing, resulting in lower carbon dioxide emissions without reducing Daimler’s standards.
 
-Following actions should be performed:
+#### Following actions should be performed:
 
 If for any column(s), the variance is equal to zero, then you need to remove those variable(s).
 
